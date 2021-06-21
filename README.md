@@ -1,1 +1,1 @@
-# OrbiSIMS-PCA
+# OrbiSIMS data preprocessing and PCA analysis
